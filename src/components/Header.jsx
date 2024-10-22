@@ -124,7 +124,7 @@ const Header = () => {
                     <span>BlockDAG</span>
                   </a>
                   <svg
-                  onClick={showNav}
+                    onClick={showNav}
                     width="24"
                     height="24"
                     viewBox="0 0 24 24"
@@ -452,13 +452,13 @@ const Header = () => {
             <div className="Header_rightBar__wdIRX">
               <button
                 type="button"
-                className="Button_button__mCT0h d-md Button_black__Fjplo"
+                className="Button_button__mCT0h d-md Button_black__Fjplo interact-button"
               >
                 Buy
               </button>
               <button
                 type="button"
-                className="Button_button__mCT0h d-sm Button_black__Fjplo"
+                className="Button_button__mCT0h d-sm Button_black__Fjplo interact-button"
               >
                 Buy
               </button>
